@@ -1,0 +1,31 @@
+# Archivos de configuración local
+local.properties
+
+# Archivos y carpetas generadas por el entorno
+.gradle/
+.idea/
+.kotlin/
+build/
+**/build/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Capturas y registros
+captures/
+*.log
+
+# Archivos específicos de Android Studio
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/httpRequests/
+
+# Evitar que se suban configuraciones personales
+*.iml
